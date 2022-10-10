@@ -26,7 +26,7 @@ Echo JRE Parameters:%javacmd%
 Echo Priority:%priority%
 Echo ***************************************************************************
 Echo.
-Echo If you see a message like "javaw" not found, you probably have to install Java.
+Echo If you see a message like "java" not found, you probably have to install Java.
 Echo.
 Echo You can download Java at http://java.com/
 Echo.
@@ -69,3 +69,4 @@ GoTo :STARTJAVA
 
 Rem Target needed to jump to the end of the file
 :END
+
